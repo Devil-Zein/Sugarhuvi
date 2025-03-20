@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blox Fruit Collection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #2a9df4;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #fff;
+        }
+        .container {
+            padding: 20px;
+        }
+        .list-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        .item {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            margin: 10px;
+            padding: 15px;
+            width: 200px;
+            text-align: center;
+        }
+        .item img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            border-radius: 50%;
+        }
+        footer {
+            background-color: #2a9df4;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Blox Fruit Collection</h1>
+    <p>Kumpulan Buah dan Senjata dari Blox Fruit</p>
+</header>
+
+<div class="container">
+    <h2>Buah di Blox Fruit</h2>
+    <div class="list-container">
+        <div class="item">
+            <img src="URL_GAMBAR_BUAH" alt="Magma Fruit">
+            <p>Magma Fruit</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_BUAH" alt="Light Fruit">
+            <p>Light Fruit</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_BUAH" alt="Dragon Fruit">
+            <p>Dragon Fruit</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_BUAH" alt="Phoenix Fruit">
+            <p>Phoenix Fruit</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_BUAH" alt="Quake Fruit">
+            <p>Quake Fruit</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_BUAH" alt="Rumble Fruit">
+            <p>Rumble Fruit</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_BUAH" alt="Dark Fruit">
+            <p>Dark Fruit</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_BUAH" alt="Sand Fruit">
+            <p>Sand Fruit</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_BUAH" alt="Venom Fruit">
+            <p>Venom Fruit</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_BUAH" alt="Doe Fruit">
+            <p>Doe Fruit</p>
+        </div>
+    </div>
+
+    <h2>Senjata di Blox Fruit</h2>
+    <div class="list-container">
+        <div class="item">
+            <img src="URL_GAMBAR_SENJATA" alt="Saber">
+            <p>Saber</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_SENJATA" alt="Dark Blade">
+            <p>Dark Blade</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_SENJATA" alt="Shisui">
+            <p>Shisui</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_SENJATA" alt="Wando">
+            <p>Wando</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_SENJATA" alt="Bisento">
+            <p>Bisento</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_SENJATA" alt="Pole">
+            <p>Pole (1st Form)</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_SENJATA" alt="Canvander">
+            <p>Canvander</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_SENJATA" alt="True Triple Katana">
+            <p>True Triple Katana</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_SENJATA" alt="Soul Cane">
+            <p>Soul Cane</p>
+        </div>
+        <div class="item">
+            <img src="URL_GAMBAR_SENJATA" alt="Midnight Blade">
+            <p>Midnight Blade</p>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2024 Tarok's Blox Fruit Collection</p>
+</footer>
+
+</body>
+</html>

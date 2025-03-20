@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Devil Geroksar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Devil Geroksar</h1>
+        <nav>
+            <ul>
+                <li><a href="#tentang">Tentang</a></li>
+                <li><a href="#karakter">Karakter</a></li>
+                <li><a href="#kekuatan">Sistem Kekuatan</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="tentang">
+        <h2>Tentang Devil Geroksar</h2>
+        <p>Devil Geroksar adalah dunia yang penuh dengan kekuatan dahsyat seperti <b>Void Star</b> dan <b>Groin</b>. 
+        Pertarungan antar individu diukur dengan <b>Value Geroksar</b>, menentukan siapa yang terkuat.</p>
+    </section>
+
+    <section id="karakter">
+        <h2>Karakter Utama</h2>
+        <ul>
+            <li><b>Sugarhuvi</b> - Pengguna <i>Devil Star (Ultra)</i> dengan manipulasi angin.</li>
+            <li><b>Groxs</b> - Pengendali objek jarak jauh (Devil Star Super).</li>
+            <li><b>BoboyCraft3</b> - Pemilik kekuatan tertinggi, <i>Devil Star Infinity</i>.</li>
+        </ul>
+    </section>
+
+    <section id="kekuatan">
+        <h2>Sistem Kekuatan</h2>
+        <p>Dalam dunia Devil Geroksar, terdapat dua sumber kekuatan utama:</p>
+        <ul>
+            <li><b>Void Star</b> - Memberikan kekuatan unik berdasarkan rarity.</li>
+            <li><b>Groin</b> - Meningkatkan kekuatan fisik, stamina, dan daya tahan.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Devil Geroksar. Dibuat oleh [Nama Kamu]</p>
+    </footer>
+</body> 
+</html>
